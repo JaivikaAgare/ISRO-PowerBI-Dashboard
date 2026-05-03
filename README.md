@@ -9,6 +9,7 @@ This project presents an interactive dashboard analyzing space missions inspired
 * Microsoft Power BI
 * Power Query
 * DAX
+* Microsoft Excel
 
 # 📈 Features
 
