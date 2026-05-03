@@ -33,4 +33,4 @@ This project presents an interactive dashboard analyzing space missions inspired
 
 This dataset is curated for analysis purposes using publicly available information.
 
-Jaivika Agare
+
